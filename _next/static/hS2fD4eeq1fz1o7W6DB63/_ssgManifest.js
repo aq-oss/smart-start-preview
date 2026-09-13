@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fapp\u002Fdocuments\u002F[doc]","\u002Fapp\u002Flearning\u002F[lesson]","\u002Fapp\u002Fprogress\u002F[stage]","\u002Fc\u002F[campaign]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
